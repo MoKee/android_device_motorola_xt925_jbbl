@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_motorola_xt925_jbbl",
+    "target_path": "vendor/motorola/xt925_jbbl"
+  },
+  {
     "repository": "android_device_motorola_msm8960_jbbl-common",
     "target_path": "device/motorola/msm8960_jbbl-common"
   }
